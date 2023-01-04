@@ -1,6 +1,6 @@
 # Screencast Camera
 
-Powerful camera for you produce your screencasts built with Electron and Vuejs.
+Powerful camera for you to produce your screencasts.
 
 ## Run locally
 
